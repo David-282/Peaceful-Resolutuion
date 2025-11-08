@@ -7,7 +7,6 @@ import java.util.Scanner;
      if (range >= 1 && range <= 100 )
      {System.out.println("The number is in range.");}
 else{ 
-     System.out.println("The number is out of range.");}
-
+     System.out.println("The number is out of range.");
 }
 } 
